@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.section1{
+    background-image: url(img/755997346496317.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+.section2{
+    background-color: rgba(235, 190, 190, 0.897);
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 26px;
+
+}
+p{
+    padding-top: 2%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1{
+    width: 65%;
+    height: 50%;
+    font-size: 46px;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    letter-spacing: 0.1em;
+    
+    text-shadow: 5;
+    padding-top: 10%;
+    color: rgb(255, 255, 255);
+}
+
+span{
+    padding-left: 5%;
+}
+.carsect21{
+    width: 30%;
+    height: 20%;
+    margin-right: 5%;
+}
+.carimg{
+    padding-top: 3%;
+}
+.carsect22{
+    width: 30%;
+    height: 20%;
+}
+.section3{
+    background-color: rgb(255, 219, 219);
+    font-size: 36px;
+    font-family: 'Montserrat';
+   text-align: center;
+    padding-bottom: 5%;
+}
+.h2{
+    font-size: 36px;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    letter-spacing: 0.1em;
+    
+}
+table{
+    margin-left: 20%;
+  font-size: 26px;
+        width: 70%; /* Ширина таблицы */
+        background: white; /* Цвет фона таблицы */
+        color: white; /* Цвет текста */
+        border-spacing: 3px; /* Расстояние между ячейками */
+
+       }
+td, th {
+        background: maroon; /* Цвет фона ячеек */
+        padding: 5px; /* Поля вокруг текста */
+       }
+td{
+    background: rgba(110, 108, 108, 0.836); /* Цвет фона ячеек */
+    padding: 5px; 
+       }
+
